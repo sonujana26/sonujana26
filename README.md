@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonujana26&label=Profile%20views&color=0e75b6&style=flat" alt="sonujana26" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonujana26" alt="sonujana26" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/sonujana26?tab=repositories](https://github.com/sonujana26?tab=repositories)
 
 - 📝 I regularly write articles on [https://krishnajana295.wixsite.com/sonujana](https://krishnajana295.wixsite.com/sonujana)
