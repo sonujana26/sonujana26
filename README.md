@@ -44,7 +44,7 @@ website: https://www.sonujana.com/
   <a href="https://www.sonujana.com/contact" style="text-decoration:none;">
     <img src="https://svg-borders.vercel.app/api/button?text=Contact&color=rainbow&width=140&height=42" />
   </a>
-
+</div>
 </div><div align="center" style="margin-top:15px;">
 <img src="https://skillicons.dev/icons?i=java,py,js,ts,fastapi,nextjs,react,postgres,mongodb,redis,docker,cloudflare,linux&theme=dark" />
 </div>
