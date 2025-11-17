@@ -23,11 +23,28 @@ website: https://www.sonujana.com/
 
 🌐 My Space
 
-<div align="center" style="margin-top:20px;">
-<a href="https://www.sonujana.com/"><img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=0ff"/></a>
-<a href="https://www.sonujana.com/chat"><img src="https://img.shields.io/badge/AI_Assistant-111?style=for-the-badge&logo=openai&logoColor=0ff"/></a>
-<a href="https://www.sonujana.com/learn"><img src="https://img.shields.io/badge/Learn_With_Me-111?style=for-the-badge&logo=react&logoColor=0ff"/></a>
-<a href="https://www.sonujana.com/contact"><img src="https://img.shields.io/badge/Contact-111?style=for-the-badge&logo=gmail&logoColor=0ff"/></a>
+<div align="center" style="margin-top:20px;display:flex;gap:12px;flex-wrap:wrap;justify-content:center;">
+
+  <!-- Portfolio -->
+  <a href="https://www.sonujana.com/" style="text-decoration:none;">
+    <img src="https://svg-borders.vercel.app/api/button?text=Portfolio&color=rainbow&width=160&height=42" />
+  </a>
+
+  <!-- AI Assistant -->
+  <a href="https://www.sonujana.com/chat" style="text-decoration:none;">
+    <img src="https://svg-borders.vercel.app/api/button?text=AI%20Assistant&color=rainbow&width=160&height=42" />
+  </a>
+
+  <!-- Learn with Me -->
+  <a href="https://www.sonujana.com/learn" style="text-decoration:none;">
+    <img src="https://svg-borders.vercel.app/api/button?text=Learn%20With%20Me&color=rainbow&width=175&height=42" />
+  </a>
+
+  <!-- Contact -->
+  <a href="https://www.sonujana.com/contact" style="text-decoration:none;">
+    <img src="https://svg-borders.vercel.app/api/button?text=Contact&color=rainbow&width=140&height=42" />
+  </a>
+
 </div><div align="center" style="margin-top:15px;">
 <img src="https://skillicons.dev/icons?i=java,py,js,ts,fastapi,nextjs,react,postgres,mongodb,redis,docker,cloudflare,linux&theme=dark" />
 </div>
