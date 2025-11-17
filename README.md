@@ -8,12 +8,17 @@
 </div>
 </div>
 
-## 🧩 Identity
 ```yaml
 name: Sonu Jana
-role: Full Stack Developer / AI Creator
-style: minimal + clean + intentional
-philosophy: build with clarity
+role: Full Stack Developer • AI Enthusiast
+location: India
+education: self-taught • project-driven learning
+interests: systems engineering • applied AI • clean UI/UX design
+specialization: scalable systems • automation • intelligent applications
+focus: precision engineering • clean architecture • high-performance software
+approach: clarity in design • intent-driven development • innovation with purpose
+value: creative solutions built with technical discipline
+website: https://www.sonujana.com/
 ```
 
 🌐 My Space
