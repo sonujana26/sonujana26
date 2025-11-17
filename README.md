@@ -2,6 +2,16 @@
 
 # Sonu Jana
 
+<div align="center" style="margin-top:10px;">
+  <img src="https://i.imgur.com/ScYF6jA.png" width="150" style="border-radius:50%;box-shadow:0 0 25px #00eaff88,0 0 45px #00eaff44;" />
+</div>
+
+
+<!-- ✦ 3D Neon Glass Avatar Ring ✦ -->
+<div align="center" style="margin-top:10px;">
+  <img src="https://i.imgur.com/ScYF6jA.png" width="150" style="border-radius:50%;box-shadow:0 0 25px #00eaff88,0 0 45px #00eaff44;" />
+</div>
+
 <div align="center">
 <div style="width:100%;padding:25px;border-radius:22px;background:linear-gradient(145deg,#0b0b0b,#111);box-shadow:0 0 25px rgba(0,255,255,0.12),0 0 60px rgba(0,255,180,0.08),inset 0 0 12px rgba(0,255,255,0.15);transform:perspective(900px) rotateX(3deg) rotateY(-2deg);">
   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=24&duration=2600&color=16F2F2&center=true&vCenter=true&width=850&lines=Sonu+Jana;Full+Stack+Developer+%7C+AI+Enthusiast;When+Creativity+meets+Technology!" />
