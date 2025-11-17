@@ -30,8 +30,6 @@ philosophy: build with clarity
 <div align="center" style="margin-top:25px;">
   <img src="https://github-readme-stats.vercel.app/api?username=sonujana26&show_icons=true&theme=react&hide_border=true&bg_color=00000000" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sonujana26&theme=react&hide_border=true&background=00000000" width="48%" />
-</div><div align="center" style="margin-top:10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonujana26&layout=compact&theme=react&hide_border=true&bg_color=00000000" width="40%" />
 </div>🧊 Accent Banner
 
 <div style="padding:20px;border-radius:18px;background:rgba(15,15,15,0.55);backdrop-filter:blur(12px);border:1px solid rgba(0,255,255,0.2);margin-top:20px;">
