@@ -23,23 +23,11 @@ website: https://www.sonujana.com/
 
 🌐 My Space
 
-<div align="center">
-
-<a href="https://www.sonujana.com/">
-  <img src="https://raw.githubusercontent.com/kauefraga/kauefraga/main/assets/button-rainbow.svg" width="160" />
-</a>
-
-<a href="https://www.sonujana.com/chat">
-  <img src="https://raw.githubusercontent.com/kauefraga/kauefraga/main/assets/button-rainbow.svg" width="160" />
-</a>
-
-<a href="https://www.sonujana.com/learn">
-  <img src="https://raw.githubusercontent.com/kauefraga/kauefraga/main/assets/button-rainbow.svg" width="175" />
-</a>
-
-<a href="https://www.sonujana.com/contact">
-  <img src="https://raw.githubusercontent.com/kauefraga/kauefraga/main/assets/button-rainbow.svg" width="140" />
-</a>
+<div align="center" style="margin-top:20px;">
+<a href="https://www.sonujana.com/"><img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=0ff"/></a>
+<a href="https://www.sonujana.com/chat"><img src="https://img.shields.io/badge/AI_Assistant-111?style=for-the-badge&logo=openai&logoColor=0ff"/></a>
+<a href="https://www.sonujana.com/learn"><img src="https://img.shields.io/badge/Learn_With_Me-111?style=for-the-badge&logo=react&logoColor=0ff"/></a>
+<a href="https://www.sonujana.com/contact"><img src="https://img.shields.io/badge/Contact-111?style=for-the-badge&logo=gmail&logoColor=0ff"/></a>
 </div><div align="center" style="margin-top:15px;">
 <img src="https://skillicons.dev/icons?i=java,py,js,ts,fastapi,nextjs,react,postgres,mongodb,redis,docker,cloudflare,linux&theme=dark" />
 </div>
