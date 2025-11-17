@@ -23,28 +23,23 @@ website: https://www.sonujana.com/
 
 🌐 My Space
 
-<div align="center" style="margin-top:20px;display:flex;gap:12px;flex-wrap:wrap;justify-content:center;">
+<div align="center">
 
-  <!-- Portfolio -->
-  <a href="https://www.sonujana.com/" style="text-decoration:none;">
-    <img src="https://svg-borders.vercel.app/api/button?text=Portfolio&color=rainbow&width=160&height=42" />
-  </a>
+<a href="https://www.sonujana.com/">
+  <img src="https://raw.githubusercontent.com/kauefraga/kauefraga/main/assets/button-rainbow.svg" width="160" />
+</a>
 
-  <!-- AI Assistant -->
-  <a href="https://www.sonujana.com/chat" style="text-decoration:none;">
-    <img src="https://svg-borders.vercel.app/api/button?text=AI%20Assistant&color=rainbow&width=160&height=42" />
-  </a>
+<a href="https://www.sonujana.com/chat">
+  <img src="https://raw.githubusercontent.com/kauefraga/kauefraga/main/assets/button-rainbow.svg" width="160" />
+</a>
 
-  <!-- Learn with Me -->
-  <a href="https://www.sonujana.com/learn" style="text-decoration:none;">
-    <img src="https://svg-borders.vercel.app/api/button?text=Learn%20With%20Me&color=rainbow&width=175&height=42" />
-  </a>
+<a href="https://www.sonujana.com/learn">
+  <img src="https://raw.githubusercontent.com/kauefraga/kauefraga/main/assets/button-rainbow.svg" width="175" />
+</a>
 
-  <!-- Contact -->
-  <a href="https://www.sonujana.com/contact" style="text-decoration:none;">
-    <img src="https://svg-borders.vercel.app/api/button?text=Contact&color=rainbow&width=140&height=42" />
-  </a>
-</div>
+<a href="https://www.sonujana.com/contact">
+  <img src="https://raw.githubusercontent.com/kauefraga/kauefraga/main/assets/button-rainbow.svg" width="140" />
+</a>
 </div><div align="center" style="margin-top:15px;">
 <img src="https://skillicons.dev/icons?i=java,py,js,ts,fastapi,nextjs,react,postgres,mongodb,redis,docker,cloudflare,linux&theme=dark" />
 </div>
