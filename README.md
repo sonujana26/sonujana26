@@ -38,9 +38,6 @@ website: https://www.sonujana.com/
 </div>
 
 <div style="padding:20px;border-radius:18px;background:rgba(15,15,15,0.55);backdrop-filter:blur(12px);border:1px solid rgba(0,255,255,0.2);margin-top:20px;">
-<div align="center">
-  <img src="https://i.imgur.com/HhDP1L1.gif" width="70%" />
-</div>
   <h3 align="center" style="color:#00f6ff;font-family:Inter;">Precision • Silence • Intentional Design</h3>
 </div><div align="center" style="margin-top:20px;">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
