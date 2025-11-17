@@ -33,7 +33,7 @@ focus: clean + fast + functional
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/sonujana26/sonujana26/output/github-contribution-grid-snake-dark.svg" />
-</div>🖤 Closing Line
+</div>
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=20&duration=2600&color=00F5FF&center=true&vCenter=true&width=850&lines=Creating+in+silence.;Dark+theme+is+clarity.;Elegance+%3E+Noise." />
