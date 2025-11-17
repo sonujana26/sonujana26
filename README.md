@@ -35,7 +35,7 @@ philosophy: build with clarity
 <div style="padding:20px;border-radius:18px;background:rgba(15,15,15,0.55);backdrop-filter:blur(12px);border:1px solid rgba(0,255,255,0.2);margin-top:20px;">
   <h3 align="center" style="color:#00f6ff;font-family:Inter;">Precision • Silence • Intentional Design</h3>
 </div><div align="center" style="margin-top:20px;">
-<img src="https://raw.githubusercontent.com/sonujana26/sonujana26/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div><div align="center" style="margin-top:20px;">
 <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=20&duration=2600&color=00F5FF&center=true&vCenter=true&width=850&lines=Creating+with+clarity.;Intent+over+noise.;Design+speaks+quietly." />
 </div>
