@@ -33,9 +33,9 @@ website: https://www.sonujana.com/
 </div>
 
 <div align="center" style="margin-top:25px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imortaltatsu&theme=radical" alt="General Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=sonujana26&show_icons=true&theme=react&hide_border=true&bg_color=00000000" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sonujana26&theme=react&hide_border=true&background=00000000" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonujana26&theme=react" alt="General Stats" />
 </div>
 
 <div style="padding:20px;border-radius:18px;background:rgba(15,15,15,0.55);backdrop-filter:blur(12px);border:1px solid rgba(0,255,255,0.2);margin-top:20px;">
